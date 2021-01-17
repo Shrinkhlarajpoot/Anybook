@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  width: 800px;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  background-color: #92400e;
+  padding: 2rem;
+}
